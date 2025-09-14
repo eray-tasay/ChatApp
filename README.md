@@ -1,4 +1,6 @@
-<h1>Project Overview</h1>
+<h1>ChatApp</h1>
+
+<h2>Project Overview</h2>
 <p>
   This is a chat app coded with Server-Sent Events (SSE). It is basically a Node.js server that listens for the given URLs below:
 </p>
@@ -17,4 +19,4 @@
 <img width="1920" height="235" alt="Capture2" src="https://github.com/user-attachments/assets/78440fcf-06b0-406e-8601-df5ba28adba4" />
 <img width="1920" height="238" alt="Capture3" src="https://github.com/user-attachments/assets/d6ad34d6-90b9-4fe5-9287-01232afff681" />
 
-<p>Reference: JavaScript The Definitive Guide by David Flanagan</p>
+<p><strong>Reference: JavaScript The Definitive Guide by David Flanagan</strong></p>
